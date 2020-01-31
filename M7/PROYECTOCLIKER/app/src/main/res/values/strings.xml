@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="Mejoras">Mejoras</string>
+    <string name="Amigos">Friends</string>
+    <string name="descripcion">Description</string>
+    <string name="descripcionArma1">Descripcion Arma 1</string>
+</resources>
